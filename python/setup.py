@@ -11,6 +11,7 @@ requirements = [
 
 pipeline_requirements = [
     "cdp-backend[pipeline]==3.2.0",
+    "cdp-scrapers[long_beach]",
 ]
 
 test_requirements = [
