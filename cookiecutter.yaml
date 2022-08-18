@@ -1,0 +1,13 @@
+default_context:
+    municipality: "Long Beach"
+    iana_timezone: "America/Los_Angeles"
+    governing_body_type: "city council"
+    municipality_slug: "long-beach"
+    python_municipality_slug: "long_beach"
+    infrastructure_slug: "cdp-long-beach-49323fe9"
+    maintainer_or_org_full_name: "evamaxfield"
+    hosting_github_username_or_org: "CouncilDataProject"
+    hosting_github_repo_name: "long-beach"
+    hosting_github_url: "https://github.com/CouncilDataProject/long-beach"
+    hosting_web_app_address: "https://councildataproject.github.io/long-beach"
+    firestore_region: "us-central"
