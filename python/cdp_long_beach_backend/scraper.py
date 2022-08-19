@@ -33,6 +33,7 @@ def get_events(
             "page break",
             "REVISED",
             "PAGE BREAK",
+            "A digital recording of this meeting will be available",
         ],
     )
 
