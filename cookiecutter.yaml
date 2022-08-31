@@ -11,3 +11,5 @@ default_context:
     hosting_github_url: "https://github.com/CouncilDataProject/long-beach"
     hosting_web_app_address: "https://councildataproject.github.io/long-beach"
     firestore_region: "us-central"
+    event_gather_timedelta_lookback_days: 4
+    event_gather_cron: "51 9 * * *"
