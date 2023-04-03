@@ -5,16 +5,16 @@
     "runtime-main.js": "/long-beach/static/js/runtime-main.5441d41e.js",
     "runtime-main.js.map": "/long-beach/static/js/runtime-main.5441d41e.js.map",
     "static/css/2.3fe0b2dc.chunk.css": "/long-beach/static/css/2.3fe0b2dc.chunk.css",
-    "static/js/2.132e527b.chunk.js": "/long-beach/static/js/2.132e527b.chunk.js",
-    "static/js/2.132e527b.chunk.js.map": "/long-beach/static/js/2.132e527b.chunk.js.map",
+    "static/js/2.a12d9598.chunk.js": "/long-beach/static/js/2.a12d9598.chunk.js",
+    "static/js/2.a12d9598.chunk.js.map": "/long-beach/static/js/2.a12d9598.chunk.js.map",
     "index.html": "/long-beach/index.html",
     "static/css/2.3fe0b2dc.chunk.css.map": "/long-beach/static/css/2.3fe0b2dc.chunk.css.map",
-    "static/js/2.132e527b.chunk.js.LICENSE.txt": "/long-beach/static/js/2.132e527b.chunk.js.LICENSE.txt"
+    "static/js/2.a12d9598.chunk.js.LICENSE.txt": "/long-beach/static/js/2.a12d9598.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5441d41e.js",
     "static/css/2.3fe0b2dc.chunk.css",
-    "static/js/2.132e527b.chunk.js",
+    "static/js/2.a12d9598.chunk.js",
     "static/js/main.e7df8c56.chunk.js"
   ]
 }
