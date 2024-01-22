@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/long-beach/static/js/main.dc01b593.chunk.js",
-    "main.js.map": "/long-beach/static/js/main.dc01b593.chunk.js.map",
-    "runtime-main.js": "/long-beach/static/js/runtime-main.b625523a.js",
-    "runtime-main.js.map": "/long-beach/static/js/runtime-main.b625523a.js.map",
+    "main.js": "/long-beach/static/js/main.e95a5f4d.chunk.js",
+    "main.js.map": "/long-beach/static/js/main.e95a5f4d.chunk.js.map",
+    "runtime-main.js": "/long-beach/static/js/runtime-main.75594cae.js",
+    "runtime-main.js.map": "/long-beach/static/js/runtime-main.75594cae.js.map",
     "static/css/2.bd5b6b7e.chunk.css": "/long-beach/static/css/2.bd5b6b7e.chunk.css",
-    "static/js/2.e6abec6a.chunk.js": "/long-beach/static/js/2.e6abec6a.chunk.js",
-    "static/js/2.e6abec6a.chunk.js.map": "/long-beach/static/js/2.e6abec6a.chunk.js.map",
+    "static/js/2.179eacb0.chunk.js": "/long-beach/static/js/2.179eacb0.chunk.js",
+    "static/js/2.179eacb0.chunk.js.map": "/long-beach/static/js/2.179eacb0.chunk.js.map",
     "index.html": "/long-beach/index.html",
     "static/css/2.bd5b6b7e.chunk.css.map": "/long-beach/static/css/2.bd5b6b7e.chunk.css.map",
-    "static/js/2.e6abec6a.chunk.js.LICENSE.txt": "/long-beach/static/js/2.e6abec6a.chunk.js.LICENSE.txt"
+    "static/js/2.179eacb0.chunk.js.LICENSE.txt": "/long-beach/static/js/2.179eacb0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b625523a.js",
+    "static/js/runtime-main.75594cae.js",
     "static/css/2.bd5b6b7e.chunk.css",
-    "static/js/2.e6abec6a.chunk.js",
-    "static/js/main.dc01b593.chunk.js"
+    "static/js/2.179eacb0.chunk.js",
+    "static/js/main.e95a5f4d.chunk.js"
   ]
 }
