@@ -1,2 +1,2 @@
 (this["webpackJsonpcdp-long-beach"]=this["webpackJsonpcdp-long-beach"]||[]).push([[0],{197:function(e,n){},90:function(e,n,o){"use strict";o.r(n);o(0);var c=o(26),i=o.n(c),t=o(63),s=(o(213),o(55));i.a.render(Object(s.jsx)("div",{children:Object(s.jsx)(t.AppConfigProvider,{appConfig:{firebaseConfig:{options:{projectId:"cdp-long-beach-49323fe9"},settings:{}},municipality:{name:"Long Beach",timeZone:"America/Los_Angeles",footerLinksSections:[]},features:{}},children:Object(s.jsx)(t.App,{})})}),document.getElementById("root"))}},[[90,1,2]]]);
-//# sourceMappingURL=main.00089c74.chunk.js.map
+//# sourceMappingURL=main.7a53d0ea.chunk.js.map
